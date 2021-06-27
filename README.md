@@ -1,5 +1,7 @@
 ### Howdy! 🤠 I'm rootedbox!
 
+A little about me! I grew up in Texas. Started my programing life with basic on the 🍎2 then c on the Amiga.. then pascal, asm, c/c++ on x86 dos/linux. For the past 15 or so years i've been largly working with Ruby / Ruby on Rails with a lot of glue work in javascript(node and web).
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootedbox&count_private=true&show_icons=true&theme=radical)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rootedbox.github.profile)
