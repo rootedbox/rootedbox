@@ -1,5 +1,6 @@
-### Hi there 👋
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=rootedbox.github.profile)
+### Hi there 👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=rootedbox.github.profile)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootedbox&count_private=true)
 
 <!--
 **rootedbox/rootedbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
