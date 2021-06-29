@@ -1,4 +1,4 @@
-#### Howdy! 🤠 I'm rootedbox!
+# Howdy! 🤠 I'm rootedbox!
 
 A little about me! I grew up in Texas. Started my programing life with basic on the 🍎2 then c on the Amiga.. after that pascal, asm, and c/c++ on x86 dos/linux. For the past 15 or so years i've been largly working with Ruby / Ruby on Rails with a lot of glue work in javascript(node and web).
 
