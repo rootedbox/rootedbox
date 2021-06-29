@@ -2,7 +2,7 @@
 
 A little about me! I grew up in Texas. Started my programing life with basic on the 🍎2 then c on the Amiga.. after that pascal, asm, and c/c++ on x86 dos/linux. For the past 15 or so years i've been largly working with Ruby / Ruby on Rails with a lot of glue work in javascript(node and web).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootedbox&count_private=true&show_icons=true&theme=radical)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=rootedbox&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rootedbox.github.profile)
 
