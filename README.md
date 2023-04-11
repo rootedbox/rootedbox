@@ -1,8 +1,8 @@
 # Howdy! 🤠 I'm rootedbox!
 
-A little about me! I live in San Francisco, and I grew up in Texas. My programming journey began with BASIC on the Apple II, and then I moved on to C on the Amiga. From there, I dabbled in Pascal, ASM, and C/C++ on x86 DOS/Linux.
+A little about me! I currently reside in San Francisco, California, but I spent my formative years in Texas. My programming journey began with Basic on the Apple II, followed by C on the Amiga. I then dabbled in Pascal, ASM, and C/C++ on x86 DOS/Linux platforms.
 
-The first part of my career was focused on C/C++ and Pascal/Delphi, honing my skills in these languages. However, in the past 15 years or so, I've primarily been working with Ruby and Ruby on Rails, leveraging the power of these dynamic languages to build robust web applications. I've also spent a significant amount of time working with JavaScript, both on the server-side with Node.js and on the front-end for web development. Throughout my career, I've been involved in a lot of "glue work," integrating different technologies and systems to create seamless solutions for various projects. I'm passionate about keeping up with the latest developments in the tech industry and continuously learning and growing as a programmer.
+During the initial phase of my career, I predominantly worked with C/C++ and Pascal/Delphi. However, over the past 15 years, I have transitioned to primarily working with Ruby and Ruby on Rails, with a significant amount of JavaScript (both Node.js and web) for glue work.
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=rootedbox&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
