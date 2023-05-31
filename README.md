@@ -8,4 +8,4 @@ So there you have it, folks! That's me, a true-blue cowboy coder, rustling up so
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=rootedbox&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rootedbox.github.profile)
+
