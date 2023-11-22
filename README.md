@@ -6,6 +6,6 @@ Nowadays, I like to think I've moseyed on over to the more stylish side of progr
 
 So there you have it, folks! That's me, a true-blue cowboy coder, rustling up some digital magic in the wild west of technology!
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=rootedbox&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rootedbox&theme=javascript-dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 
