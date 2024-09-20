@@ -1,13 +1,13 @@
 # Howdy! I'm rootedbox!
 
-## [View My Resume](RESUME.md)
+## Available for hire! 👉🏽 [View My Resume](RESUME.md)
 ##
 
 Hello! I'm originally from Texas 🤠 but now live in San Francisco 🌉. I started programming on an Apple II 🍏 using Basic and then moved on to programming in C on the Amiga. Over time, I've worked with various languages including Pascal, ASM, and C/C++ on all sorts of platforms.
 
 Currently, I'm focused on Ruby 💎 and Ruby on Rails 🛤️, which I've been using for the past 15 years. Additionally, I use JavaScript, particularly Node.js 🟢 and React ⚛️, for integrating different parts of my projects and ensuring they run smoothly.
 
-That's a bit about me. Thanks for Reading! 👋😄
+That's a bit about a little about me. 👋😄
 
 ##
 ##
