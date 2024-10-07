@@ -12,6 +12,6 @@ That’s a bit about me. 👋😄
 ##
 ##
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rootedbox&theme=javascript-dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rootedbox&theme=javascript-dark&hide_border=true&mode=daily)](https://git.io/streak-stats)
 
 
