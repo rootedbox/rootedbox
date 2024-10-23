@@ -1,6 +1,6 @@
 # Howdy! I'm rootedbox!
 
-## Available for hire! 👉🏽 [View My Resume](RESUME.md)
+[View My Resume](RESUME.md)
 ##
 
 Howdy! I’m originally from Texas 🤠 but have been living in San Francisco 🌉 for the past 15 years. I started programming on an Apple II 🍏 using BASIC and then moved on to programming in C on the Amiga. Over time, I’ve worked with various languages including Pascal, Assembly (ASM), and C/C++ on all sorts of platforms.
