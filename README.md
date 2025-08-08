@@ -8,9 +8,5 @@ Fifteen years ago, I saddled up with Ruby 💎 and Ruby on Rails 🛤️, and we
 
 I believe software should be as enjoyable 😄 to work on as it is to use 🙌. That means thoughtfully designed systems 🧩, maintainable code 🛠️, and the occasional 💡 “what if we tried this?” spark of creativity. Whether it’s wrangling a gnarly backend 🐍, orchestrating a frontend symphony 🎼, or gluing it all together into a seamless product 🚀, I’m in my happy place 🌈.
 
-##
-##
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rootedbox&theme=javascript-dark&hide_border=true&mode=daily&exclude_days=sat,sun)](https://git.io/streak-stats)
 
 
